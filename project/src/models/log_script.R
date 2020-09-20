@@ -1,0 +1,1 @@
+#0.693 is the best you can do with log loss apparently :OOOOO marginally better than flipping a coin 
